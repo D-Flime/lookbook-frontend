@@ -1,0 +1,21 @@
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    margin: 0;
+    background-color: var(--yellow-100);
+}
+
+#root {
+    height: 100%;
+}
+
+.card {
+    height: 100%;
+    padding: 2rem;
+    border-radius: 6px;
+    border: 1px solid var(--surface-border);
+    background: var(--surface-card);
+}

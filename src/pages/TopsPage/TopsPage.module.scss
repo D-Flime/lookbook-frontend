@@ -1,0 +1,28 @@
+.page {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    overflow: hidden;
+}
+
+.title {
+    margin-top: 0;
+}
+
+.table {
+    height: 100%;
+    padding: 0;
+    overflow: hidden;
+}
+
+.table-wrapper {
+    height: 100%;
+    overflow: hidden;
+}
+
+.actions {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
