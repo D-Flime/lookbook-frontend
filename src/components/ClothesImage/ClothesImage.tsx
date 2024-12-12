@@ -1,5 +1,5 @@
 import classNames from 'classnames/bind'
-import React, { ReactEventHandler } from 'react'
+import { ReactEventHandler } from 'react'
 
 import NoClothesImg from '@/assets/images/no-clothes.jpg'
 
